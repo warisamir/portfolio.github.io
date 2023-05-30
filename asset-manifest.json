@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MyCV/static/css/main.4df3a446.css",
+    "main.js": "/MyCV/static/js/main.a44b048c.js",
+    "static/js/787.ae61a12f.chunk.js": "/MyCV/static/js/787.ae61a12f.chunk.js",
+    "static/media/song.mp3": "/MyCV/static/media/song.c9a580e2c7f6135b3fac.mp3",
+    "static/media/3.png": "/MyCV/static/media/3.a7385bd7323db8cdf83c.png",
+    "static/media/1.png": "/MyCV/static/media/1.5d63e23cb7e66250ba1b.png",
+    "static/media/ub.jpg": "/MyCV/static/media/ub.a402a5a067da1ec22bab.jpg",
+    "static/media/tsoc.png": "/MyCV/static/media/tsoc.9ac41399bc756715d22a.png",
+    "static/media/gssoc.png": "/MyCV/static/media/gssoc.45d099fdac66b2c02e56.png",
+    "static/media/github.png": "/MyCV/static/media/github.8f4d516d74bd3dbd465b.png",
+    "static/media/WARIS.jpg": "/MyCV/static/media/WARIS.965d85dddc0fca8cae16.jpg",
+    "static/media/intro_to_cyber.png": "/MyCV/static/media/intro_to_cyber.2cf4c1a63bc75d3a23d0.png",
+    "static/media/2.png": "/MyCV/static/media/2.e057e9632a8156376feb.png",
+    "static/media/openPeeps.png": "/MyCV/static/media/openPeeps.1a6f0f1ce591771b5d88.png",
+    "static/media/asia.jpg": "/MyCV/static/media/asia.e2085b5b446246e5e03c.jpg",
+    "index.html": "/MyCV/index.html",
+    "main.4df3a446.css.map": "/MyCV/static/css/main.4df3a446.css.map",
+    "main.a44b048c.js.map": "/MyCV/static/js/main.a44b048c.js.map",
+    "787.ae61a12f.chunk.js.map": "/MyCV/static/js/787.ae61a12f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4df3a446.css",
+    "static/js/main.a44b048c.js"
+  ]
+}
